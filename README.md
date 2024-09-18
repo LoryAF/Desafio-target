@@ -13,7 +13,7 @@ Ao final do loop, a variável `SOMA` terá o valor resultante da soma de todos o
 
 ## Questão 2. 
 
-**Resposta da Questão 2:** [Fibonacci](https://github.com/LoryAF/Desafio-target/tree/main/questao2FibonacciChecker.java)
+**Resposta da Questão 2:** [Fibonacci](https://github.com/LoryAF/Desafio-target/blob/main/questao3/FaturamentoDistribuidora.java)
 
 ## Questão 3. 
 
